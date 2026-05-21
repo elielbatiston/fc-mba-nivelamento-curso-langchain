@@ -43,3 +43,8 @@ https://platform.openai.com/api-keys
 Clique em API Keys
 
 
+3- Como executar o programa
+
+```
+python3 arquivo.py
+```
