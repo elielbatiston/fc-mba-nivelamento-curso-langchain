@@ -48,3 +48,8 @@ Clique em API Keys
 ```
 python3 arquivo.py
 ```
+
+LangChain Hub é um GitHub de Prompts (Artefatos pra te ajudar no dia a dia)
+
+Você pode procurar o hwchase17. Ele foi um dos caras que criou a langchain.
+Tem o hwchase17/react que foi criado especificamente para o react
